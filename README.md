@@ -1,5 +1,5 @@
 # A Turn-based Adventurous Monster Game (Projekt für KIT Digitale Spiele)
-> *abstract:* Players explore a world of diverse biomes overrun by corrupted creatures. By defeating evil monsters in turn-based battles, you’ll free and collect unique monsters to build your own monster  > deck. Travel through branching paths across volcanoes, icy mountains, dense forests, and shadowy mines, facing off against bosses and reclaiming lost lands. Level up your team in the training camp, test > your strength in an endless arena, and gather powerful upgrades to overcome ever-tougher challenges. 
+> *abstract:* Players explore a world of diverse biomes overrun by corrupted creatures. By defeating evil monsters in turn-based battles, you’ll free and collect unique monsters to build your own monster  deck. Travel through branching paths across volcanoes, icy mountains, dense forests, and shadowy mines, facing off against bosses and reclaiming lost lands. Level up your team in the training camp, test your strength in an endless arena, and gather powerful upgrades to overcome ever-tougher challenges. 
 
 **Art Style:** cartoon-style
 
