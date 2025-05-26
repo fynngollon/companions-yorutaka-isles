@@ -8,9 +8,9 @@
 - [X] menu screen (Titel, continue, new game, settings, exit)
 - [X] map
 - [X] small trainer
-- [ ] ui elements / HUT (village, start fight dekorativ)
-- [ ] links: companions (to select travel companions), mitte: lvl/progression der companions, rechts: währung)
-- [] mauszeiger
+- [X] ui elements / HUT (village, start fight dekorativ)
+- [X] links: companions (to select travel companions), mitte: lvl/progression der companions, rechts: währung)
+- [X] mauszeiger
 - [X] fight:   companion monsters von vorne und hinten, monster von vorne besiegt.
         ui elemente (abilities 4, item screen, companion wechseln, screen zur auswahl der aktion, anzeige monster counter, animation angriff, texte) 
         belohnungsscreen (von gold, und xp für companions) 
