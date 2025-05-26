@@ -3,19 +3,13 @@
 
 **Art Style:** cartoon-style
 
-## Paper Prototype:
-- [X] pc frame din a4
-- [X] menu screen (Titel, continue, new game, settings, exit)
-- [X] map
-- [X] small trainer
-- [X] ui elements / HUT (village, start fight dekorativ)
-- [X] links: companions (to select travel companions), mitte: lvl/progression der companions, rechts: währung)
-- [X] mauszeiger
-- [X] fight:   companion monsters von vorne und hinten, monster von vorne besiegt.
-        ui elemente (abilities 4, item screen, companion wechseln, screen zur auswahl der aktion, anzeige monster counter, animation angriff, texte) 
-        belohnungsscreen (von gold, und xp für companions) 
-        freed new companion screen (companion abgebildet und seine stats und attacken)
-- [X] shop (heilungstrank in drei größen, level boost trank, heiler für statuseffekte / cleanser)
+### Yorutaka Isles
+The Yorutaka Isles are a diverse island group inhibited by friendly creatures. One day, however, the peaceful community was destroyed. Some Yorutakians became possessed by an evil spirit, making their eyes shine in purple. Their turned into monsters over night! Only a few Yorutakians could flee from the Isles in time, but many more were captured by the monsters. 
+
+
+## Begriffserklärungen
+Companion: 
+
 
 
 
