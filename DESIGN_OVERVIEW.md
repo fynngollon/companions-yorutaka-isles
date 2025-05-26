@@ -3,6 +3,7 @@ Here, the design concepts of the game are listed to show an overview of all the 
 
 List of designs:
 - [Taro, the Trainer](#1-taro-the-trainer)
+- [Map](#2-map)
 
 ## 1. Taro, the Trainer
 <p align="center">
