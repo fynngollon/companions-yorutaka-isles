@@ -4,7 +4,7 @@
 **Art Style:** cartoon-style
 
 ## Paper Prototype:
-- [ ] pc frame din a4
+- [X] pc frame din a4
 - [ ] menu screen (Titel, continue, new game, settings, exit)
 - [X] map
 - [X] small trainer
